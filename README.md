@@ -1,2 +1,3 @@
-# UFPR-Mobile
-Repositório para as atividades da matéria de mobile 
+# Repositório Lucas Perussi
+
+Repositório para as atividades da matéria de mobile da UFPR
